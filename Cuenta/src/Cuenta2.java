@@ -5,5 +5,7 @@ public class Cuenta2 {
 	int total;
 	
 	int valor;
+	
+	int interes;
 
 }

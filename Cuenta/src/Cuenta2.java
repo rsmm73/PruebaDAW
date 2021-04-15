@@ -7,5 +7,7 @@ public class Cuenta2 {
 	int valor;
 	
 	int interes;
+	
+	int raul;
 
 }

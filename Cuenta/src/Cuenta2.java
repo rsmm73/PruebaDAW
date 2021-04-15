@@ -9,5 +9,7 @@ public class Cuenta2 {
 	int interes;
 	
 	int raul;
+	
+	int raul2;
 
 }

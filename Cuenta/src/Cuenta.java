@@ -17,6 +17,8 @@ public class Cuenta {
 	int diasActivo;
 
 	int tipoCuenta;
+	
+	int cambio;
 
 	public float interesGanado() {
 

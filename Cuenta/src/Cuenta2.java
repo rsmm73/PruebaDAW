@@ -11,5 +11,7 @@ public class Cuenta2 {
 	int raul;
 	
 	int raul2;
+	
+	int cambio;
 
 }

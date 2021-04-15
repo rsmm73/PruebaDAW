@@ -12,7 +12,7 @@ public class Cuenta {
 
 	float capital;
 	
-	
+	int nuevo;
 	float interes;
 	int diasActivo;
 

@@ -1,7 +1,7 @@
 
-public class Cuenta {
+public class Cuenta { 
 
-
+ 
 	public static final int ESTANDAR = 0;
 	public static final int PRESUPUESTO = 1;
 	public static final int PREMIUM = 2;

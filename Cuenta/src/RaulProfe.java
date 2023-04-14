@@ -22,9 +22,6 @@ public class RaulProfe {
 		System.out.println("======Adios=========");
 		
 		System.out.println("Miguel");
-		
-		System.out.println("Raul");
-		
 
 
 	}

@@ -2,7 +2,7 @@
 public class Clase222 {
 
 	public Clase222() {
-		// TODO Esbozo de constructor generado automáticamente
+		// TODO Esbozo dssssse constructor generado automáticamente
 	}
 
 }
